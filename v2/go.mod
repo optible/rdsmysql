@@ -1,4 +1,4 @@
-module github.com/shogo82148/rdsmysql/v2
+module github.com/optible/rdsmysql/v2
 
 go 1.19
 
